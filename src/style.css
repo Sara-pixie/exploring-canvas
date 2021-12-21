@@ -13,10 +13,12 @@ body {
 h1 {
   padding: 10px 20px;
   text-align: center;
+  text-shadow: 0 0 1px black;
 }
 canvas {
   border: 1px solid black;
   position: absolute;
   top: 0;
   left: 0;
+  z-index: -1;
 }
