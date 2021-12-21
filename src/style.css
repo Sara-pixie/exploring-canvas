@@ -6,14 +6,16 @@
   box-sizing: border-box;
 }
 body {
-  background-color: rgb(39, 38, 38);
-  color: aliceblue;
+  background-color: #121317;
+  color: #fff;
   overflow: hidden;
 }
 h1 {
   padding: 10px 20px;
   text-align: center;
   text-shadow: 0 0 1px black;
+  font-size: 10rem;
+  margin-top: 2rem;
 }
 canvas {
   border: 1px solid black;
